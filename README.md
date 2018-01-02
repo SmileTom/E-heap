@@ -7,4 +7,4 @@ Các kỹ thuật khai thác heap
 4. House of Spirit
 5. House of Force
 
-Các ví dụ được demo trên ubuntu 14.04 -Glibc 3.13
+Các ví dụ được demo trên ubuntu 14.04(x86-x64)-Glibc 3.13
